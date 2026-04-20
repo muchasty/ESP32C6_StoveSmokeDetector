@@ -1,5 +1,9 @@
 # ESP32C6 StoveSmoke Detector 🍳🔥
 
+<div align="center">
+  <img src="StoveSmokeDetector.jpg" alt="XIAO-C6 StoveSmoke Detector" width="600">
+</div>
+
 Inteligentny czujnik bezpieczeństwa do kuchni oparty na układzie **Seeed Studio XIAO ESP32-C6**. Urządzenie monitoruje obecność płomienia, lotne związki organiczne (VOC), temperaturę oraz wilgotność, komunikując się natywnie przez stos **Zigbee 3.0**.
 
 ## ✨ Główne Funkcje
