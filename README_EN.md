@@ -1,5 +1,9 @@
 # ESP32C6 StoveSmoke Detector 🍳🔥
 
+<div align="center">
+  <img src="StoveSmokeDetector.jpg" alt="XIAO-C6 StoveSmoke Detector" width="600">
+</div>
+
 An advanced, DIY kitchen safety sensor based on the **Seeed Studio XIAO ESP32-C6**. This device monitors flame presence, Volatile Organic Compounds (VOCs), temperature, and humidity, communicating natively via **Zigbee 3.0**.
 
 ## ✨ Key Features
