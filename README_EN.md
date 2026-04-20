@@ -13,7 +13,7 @@ An advanced, DIY kitchen safety sensor based on the **Seeed Studio XIAO ESP32-C6
 
 ## 🛠 Hardware Stack
 
-1.  **MCU:** Seeed Studio XIAO ESP32-C6.
+1.  **MCU:** Seeed Studio XIAO ESP32-C6. https://wiki.seeedstudio.com/xiao_esp32c6_getting_started/
 2.  **VOC Sensor:** Sensirion SGP40 (I2C).
 3.  **Temp/Hum Sensor:** DFRobot SHTC3 (I2C).
 4.  **Flame Sensor:** Standard IR Flame sensor (A0 for Analog, D1 for Digital).
