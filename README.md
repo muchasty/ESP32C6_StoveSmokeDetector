@@ -14,6 +14,7 @@ Inteligentny czujnik bezpieczeństwa do kuchni oparty na układzie **Seeed Studi
 ## 🛠 Lista Komponentów
 
 1.  **Mikrokontroler:** Seeed Studio XIAO ESP32-C6.
+https://wiki.seeedstudio.com/xiao_esp32c6_getting_started/
 2.  **Sensor Gazów:** Sensirion SGP40 (I2C).
 3.  **Sensor Temp/Hum:** DFRobot SHTC3 (I2C).
 4.  **Sensor Płomienia:** Standardowy czujnik podczerwieni (IR) z wyjściem analogowym (A0) i cyfrowym (D1).
